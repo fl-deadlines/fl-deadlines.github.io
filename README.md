@@ -6,7 +6,11 @@ Based on [ai-deadlin.es][2] by @abhshkdz.
 
 ## Contributing
 
-Contributions are very welcome!
+Contributions are very welcome! Feel free to add new deadlines through a pull request or create an issue.
+Note that types of conferences are defined by the `sub` attribute, which recalls the types defined in `_data/types.yml`.
+Feel free to add new types or update the existing ones.
+Particular mention goes to the `FLS` type, which is used to identify conferences in which Federated Learning is a main topic.
+Conferences and workshops that are not tagged with the `FLS` type are still accepting Federated Learning papers, but it is not the main topic of the conference.
 
 To add or update a deadline:
 - Fork the repository
