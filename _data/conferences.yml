@@ -9,7 +9,7 @@
   date: April 6-11, 2025
   start: 2025-04-06
   end: 2025-04-11
-  sub: ['FLS', 'AP']
+  sub: FLS
   #note: no notes
 
 - title: FL@FM-NeurIPS 2024 - International Workshop on Federated Foundation Models in Conjunction with NeurIPS 2024
@@ -23,7 +23,7 @@
   date: December 15, 2024
   start: 2024-12-15
   end: 2024-12-15
-  sub: ['FLS', 'FM']
+  sub: FLS
   #note: no notes
 
 - title: ICMLA 2024 - 23rd International Conference on Machine Learning and Applications
@@ -37,7 +37,7 @@
   date: December 18-20, 2024
   start: 2024-12-18
   end: 2024-12-20
-  sub: ['CV']
+  sub: CV
   #note: no notes
 
 - title: FLTA  2024 - The 2nd IEEE International Conference on Federated Learning Technologies and Applications
@@ -65,7 +65,7 @@
   date: August 26, 2024
   start: 2024-08-26
   end: 2024-08-26
-  sub: ['FLS', 'DM']
+  sub: FLS
   #note: no notes
 
 - title: FL@FM-IJCAI 2024 - International Workshop on Federated Learning in the Age of Foundation Models In Conjunction with IJCAI 2024
@@ -79,7 +79,7 @@
   date: August 5, 2024
   start: 2024-08-05
   end: 2024-08-05
-  sub: ['FLS', 'FM']
+  sub: FLS
   #note: no notes
 
 - title: ACM ToMPECS SI on Federated Learning 2024
@@ -93,7 +93,7 @@
   date: N/A
   start: 2024-12-01
   end: 2024-12-01
-  sub: [FLS]
+  sub: FLS
   note: The data refers to the tentative publication date
 
 - title: FL@FM-ICME 2024 - International Workshop on Federated Learning and Foundation Models for Multi-Media
@@ -107,7 +107,7 @@
   date: July 15, 2024
   start: 2024-07-15
   end: 2024-07-15
-  sub: ['FLS', 'FM', 'CV', 'AP']
+  sub: FLS
   #note: no notes
 
 - title: FLAWR 2024 - Federated Learning Applications in the Real World
@@ -135,5 +135,5 @@
   date: May 14, 2024
   start: 2024-05-14
   end: 2024-05-14
-  sub: ['FLS', 'FM']
+  sub: FLS
   #note: no notes
