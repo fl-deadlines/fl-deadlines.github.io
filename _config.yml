@@ -4,6 +4,7 @@ author: Marcello Maugeri
 
 domain: "fl-deadlines.github.io"
 baseurl: "https://fl-deadlines.github.io"
+baseurl_calendar: ""http://fl-deadlines.github.io""
 
 twitter_hashtag: federatedlearning
 github_username: fl-deadlines
