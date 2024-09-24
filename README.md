@@ -1,6 +1,6 @@
 ## FL Deadlines 
 
-Countdown timers to keep track FL conference and workshops deadlines.
+Countdown timers to keep track FL CFP deadlines.
 
 Based on [ai-deadlin.es][2] by @abhshkdz.
 
