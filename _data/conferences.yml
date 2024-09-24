@@ -1,4 +1,4 @@
-- title: FLute - Workshop on Federated Learning for Audio Understanding
+- title: FLute 2025 - Workshop on Federated Learning for Audio Understanding
   year: 2025
   id: flute2025
   link: https://icasspflute.github.io/
@@ -9,5 +9,131 @@
   date: April 6-11, 2025
   start: 2025-04-06
   end: 2025-04-11
-  sub: [AP, FLS]
+  sub: [FLS, AP]
+  #note: no notes
+
+- title: FL@FM-NeurIPS 2024 - International Workshop on Federated Foundation Models in Conjunction with NeurIPS 2024
+  year: 2024
+  id: flfmneurips2024
+  link: https://federated-learning.org/fl@fm-neurips-2024/
+  deadline: '2024-09-27 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Vancouver, BC, Canada
+  date: December 15, 2024
+  start: 2024-12-15
+  end: 2024-12-15
+  sub: [FLS, FM]
+  #note: no notes
+
+- title: ICMLA 2024 - 23rd International Conference on Machine Learning and Applications
+  year: 2024
+  id: icmla2024
+  link: https://www.icmla-conference.org/icmla24/
+  deadline: '2024-07-31 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Miami, Florida
+  date: December 18-20, 2024
+  start: 2024-12-18
+  end: 2024-12-20
+  sub: []
+  #note: no notes
+
+- title: FLTA  2024 - The 2nd IEEE International Conference on Federated Learning Technologies and Applications
+  year: 2024
+  id: flta2024
+  link: https://flta-conference.org/
+  deadline: '2024-05-31 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Valencia, Spain
+  date: September 17-20, 2024
+  start: 2024-09-17
+  end: 2024-09-20
+  sub: [FLS]
+  #note: no notes
+
+- title: FedKDD 2024 - International Joint Workshop on Federated Learning for Data Mining and Graph Analytics
+  year: 2024
+  id: fedkdd2024
+  link: https://fedkdd.github.io/
+  deadline: '2024-05-28 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Barcelona
+  date: August 26, 2024
+  start: 2024-08-26
+  end: 2024-08-26
+  sub: [FLS, DM]
+  #note: no notes
+
+- title: FL@FM-IJCAI 2024 - International Workshop on Federated Learning in the Age of Foundation Models In Conjunction with IJCAI 2024
+  year: 2024
+  id: flfmijcsi2024
+  link: https://federated-learning.org/fl@fm-ijcai-2024/
+  deadline: '2024-05-14 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Jeju, South Korea
+  date: August 5, 2024
+  start: 2024-08-05
+  end: 2024-08-05
+  sub: [FLS, FM]
+  #note: no notes
+
+- title: ACM ToMPECS SI on Federated Learning 2024
+  year: 2024
+  id: acmtompecsfederatedlearning2024
+  link: https://dl.acm.org/pb-assets/static_journal_pages/tompecs/pdf/ACM-CFP-TOMPECS-FL.pdf
+  deadline: '2024-04-22 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: N/A
+  date: N/A
+  start: 2024-12-01
+  end: 2024-12-01
+  sub: [FLS]
+  note: The data refers to the tentative publication date
+
+- title: FL@FM-ICME 2024 - International Workshop on Federated Learning and Foundation Models for Multi-Media
+  year: 2024
+  id: flfmicme2024
+  link: https://federated-learning.org/fl@fm-icme-2024/
+  deadline: '2024-03-31 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Niagara Falls, ON, Canada
+  date: July 15, 2024
+  start: 2024-07-15
+  end: 2024-07-15
+  sub: [FLS, FM, CV, AP]
+  #note: no notes
+
+- title: FLAWR 2024 - Federated Learning Applications in the Real World
+  year: 2024
+  id: flawr2024
+  link: https://www.fvv.um.si/eicc2024/flarw/
+  deadline: '2024-03-15 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Xanthi, Greece
+  date: June 5-6, 2024
+  start: 2024-06-05
+  end: 2024-06-06
+  sub: [FLS]
+  #note: no notes
+
+- title: FL@FM-TheWebConf 2024 - International Workshop on Federated Foundation Models for the Web 2024
+  year: 2024
+  id: flfmthewebconf2024
+  link: https://federated-learning.org/fl@fm-www-2024/
+  deadline: '2024-02-15 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Singapore
+  date: May 14, 2024
+  start: 2024-05-14
+  end: 2024-05-14
+  sub: [FLS, FM]
   #note: no notes

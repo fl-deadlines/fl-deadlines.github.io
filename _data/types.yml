@@ -1,16 +1,21 @@
----
 - name: Federated Learning-Specific
   sub: FLS
-  color: "#ffd300"
+  color: "#ccffff"  # Light Cyan
 - name: Computer Vision
   sub: CV
-  color: "#deff0a"
+  color: "#ffff99"  # Light Yellow
 - name: Audio Processing
   sub: AP
-  color: "#147df5"
+  color: "#99ccff"  # Light Blue
 - name: Automotive
   sub: AT
-  color: "#ff0000"
+  color: "#ffcccc"  # Light Red/Pink
 - name: Natural Language Processing 
   sub: NLP
-  color: "#ff00ff"
+  color: "#ffccff"  # Light Magenta
+- name: Data Mining
+  sub: DM
+  color: "#ccffcc"  # Light Green
+- name: Foundation Models
+  sub: FM
+  color: "#ccccff"  # Light Lavender
