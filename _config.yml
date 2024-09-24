@@ -1,13 +1,13 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: FL Conference Deadlines
+description: Countdowns to FL conference and workshop deadlines
+author: Marcello Maugeri
 
-domain: "aideadlin.es"
+domain: "fl-deadlines.github.io"
 baseurl: ""
 
-twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+twitter_hashtag: federatedlearning
+github_username: marcellomaugeri
+github_repo: fl-deadlines
 
 markdown: kramdown
 ga_id:
