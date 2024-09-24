@@ -3,7 +3,7 @@ description: Countdowns to Federated Learning CFP deadlines
 author: Marcello Maugeri
 
 domain: "fl-deadlines.github.io"
-baseurl: "http://fl-deadlines.github.io"
+baseurl: "https://fl-deadlines.github.io"
 
 twitter_hashtag: federatedlearning
 github_username: fl-deadlines
