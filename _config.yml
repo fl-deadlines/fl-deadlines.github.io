@@ -6,8 +6,8 @@ domain: "fl-deadlines.github.io"
 baseurl: ""
 
 twitter_hashtag: federatedlearning
-github_username: marcellomaugeri
-github_repo: fl-deadlines
+github_username: fl-deadlines
+github_repo: fl-deadlines.github.io
 
 markdown: kramdown
 ga_id:
