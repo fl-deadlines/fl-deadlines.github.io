@@ -1,3 +1,31 @@
+- title: FLUID@AAAI 2025 - The 1st Workshop on Federated Learning for Unbounded and Intelligent Decentralization (FLUID)
+  year: 2025
+  id: fluidaaaai2025
+  link: https://fluidworkshop.github.io/
+  deadline: '2024-11-24 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Philadelphia, Pennsylvania, USA
+  date: March 4, 2025
+  start: 2025-03-04
+  end: 2025-03-04
+  sub: FLS
+  #note: no notes
+
+- title: FL-AsiaCCS 2025 - International Workshop on Secure and Efficient Federated Learning In Conjunction with ACM AsiaCCS 2025
+  year: 2025
+  id: flasiaccs2025
+  link: https://fluidworkshop.github.io/ 
+  deadline: '2025-02-21 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Hanoi, Vietnam
+  date: August 26, 2025
+  start: 2025-08-26
+  end: 2025-08-26
+  sub: FLS
+  #note: no notes
+
 - title: FLute 2025 - Workshop on Federated Learning for Audio Understanding
   year: 2025
   id: flute2025
