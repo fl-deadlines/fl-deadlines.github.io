@@ -165,3 +165,17 @@
   end: 2024-05-14
   sub: FLS
   #note: no notes
+
+- title: The 3rd International Conference on Federated Learning Technologies and Applications (FLTA25)
+  year: 2025
+  id: flta2025
+  link: https://flta-conference.org/flta-2025/
+  deadline: '2025-06-01 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Dubrovnik, Croatia
+  date: Oct 14, 2025
+  start: 2024-10-14
+  end: 2024-10-17
+  sub: FLS
+  #note: no notes
