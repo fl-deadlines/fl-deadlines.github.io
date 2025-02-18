@@ -175,7 +175,20 @@
   # abstract_deadline: none
   place: Dubrovnik, Croatia
   date: Oct 14, 2025
-  start: 2024-10-14
-  end: 2024-10-17
+  start: 2025-10-14
+  end: 2025-10-17
   sub: FLS
   #note: no notes
+
+- title: 1st Workshop on Federated Learning for Wireless Edge AI (FedEdgeAI)
+  year: 2025
+  id: fededgeai2025
+  link: https://fededgeai.github.io/
+  deadline: '2025-03-05 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Glasgow, United Kingdom
+  date: July 20, 2025
+  start: 2025-07-20
+  end: 2025-07-23
+  sub: FLS
