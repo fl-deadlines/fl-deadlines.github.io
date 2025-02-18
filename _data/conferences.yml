@@ -192,3 +192,16 @@
   start: 2025-07-20
   end: 2025-07-23
   sub: FLS
+
+- title: Workshop FL4WEB @ ICDCS 2025 – Federated Learning for Web Technologies
+  year: 2025
+  id: fl4web2025
+  link: https://www.labdma.unina.it/index.php/fl4web-icdcs2025/
+  deadline: '2025-03-03 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Glasgow, United Kingdom
+  date: July 20, 2025
+  start: 2025-07-20
+  end: 2025-07-23
+  sub: FLS
