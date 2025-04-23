@@ -205,3 +205,29 @@
   start: 2025-07-20
   end: 2025-07-23
   sub: FLS
+
+- title: International Workshop on Secure and Efficient Federated Learning @ AsiaCCS 2025
+  year: 2025
+  id: flasiaccs2025
+  link: https://federated-learning.org/fl-asiaccs-2025/
+  deadline: '2025-04-25 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Hanoi, Vietnam
+  date: August 26, 2025
+  start: 2025-08-25
+  end: 2025-08-29
+  sub: FLS
+
+- title: International Workshop on Federated Learning with Generative AI @ IJCAI 2025
+  year: 2025
+  id: flijcai2025
+  link: https://federated-learning.org/FedGenAI-ijcai-2025/
+  deadline: '2025-05-08 23:59:59'
+  timezone: UTC-12
+  # abstract_deadline: none
+  place: Montreal, Canada
+  date: August 16, 2025
+  start: 2025-08-16
+  end: 2025-08-22
+  sub: FLS
